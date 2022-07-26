@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/venkra--coming-soon/static/css/main.3d6bc49f.css",
-    "main.js": "/venkra--coming-soon/static/js/main.981a3a3b.js",
+    "main.css": "/venkra--coming-soon/static/css/main.a14e2c70.css",
+    "main.js": "/venkra--coming-soon/static/js/main.edc4b695.js",
     "static/media/bg02.jpg": "/venkra--coming-soon/static/media/bg02.62a0754079f2ee725173.jpg",
     "static/media/bg03.jpg": "/venkra--coming-soon/static/media/bg03.24ddf01a21fcd21c5c08.jpg",
     "static/media/bg01.jpg": "/venkra--coming-soon/static/media/bg01.b5a6da31b8cde88000f9.jpg",
     "static/media/logo.png": "/venkra--coming-soon/static/media/logo.aff23cc39df5b898bcb7.png",
     "index.html": "/venkra--coming-soon/index.html",
-    "main.3d6bc49f.css.map": "/venkra--coming-soon/static/css/main.3d6bc49f.css.map",
-    "main.981a3a3b.js.map": "/venkra--coming-soon/static/js/main.981a3a3b.js.map"
+    "main.a14e2c70.css.map": "/venkra--coming-soon/static/css/main.a14e2c70.css.map",
+    "main.edc4b695.js.map": "/venkra--coming-soon/static/js/main.edc4b695.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d6bc49f.css",
-    "static/js/main.981a3a3b.js"
+    "static/css/main.a14e2c70.css",
+    "static/js/main.edc4b695.js"
   ]
 }
